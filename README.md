@@ -26,6 +26,7 @@ During my thesis, I realized that although voluntary carbon market has been deba
 Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issue these credits?
 
 This project aims to provide an overview dashboard for voluntary carbon market to answer these questions
+
 Preview:
 
 ![Dashboard Preview_1](https://github.com/user-attachments/assets/f932686b-8044-44ab-92b9-65818ec24f6c)
