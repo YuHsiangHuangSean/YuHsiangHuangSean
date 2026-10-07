@@ -9,8 +9,8 @@ I translate...
 
 ## 🛠 Skills
 - Data ETL and analysis
-  -  Python (Pandas, NumPy), Power Query, SQL, Excel, R package, remote sensing
--  Data visualization
+  -  Python (Pandas, NumPy), Power Query, SQL, Excel, R package
+- Data visualization
   - Python (Matplotlib, Seaborn), Power BI & DAX, Excel
 - Spatial analysis
   - ArcGIS, QGIS, Python (GeoPandas)
