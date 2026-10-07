@@ -8,14 +8,13 @@ I translate...
 - complex information into something impactful (hopefully)
 
 ## 🛠 Skills
-- Python (Pandas, NumPy, Matplotlib, GeoPandas)
-- Power BI / Power Query / DAX
-- SQL
-- Excel
-- ArcGIS / QGIS
-- R package
-- Remote sensing
-- Git / GitHub
+- Data ETL and analysis
+  -  Python (Pandas, NumPy), Power Query, SQL, Excel, R package, remote sensing
+-  Data visualization
+  - Python (Matplotlib, Seaborn), Power BI & DAX, Excel
+- Spatial analysis
+  - ArcGIS, QGIS, Python (GeoPandas)
+- Python (Pandas, NumPy, Matplotlib, GeoPandas), remote sensing
 
 ## 📊 Featured Projects
 
