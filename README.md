@@ -18,9 +18,7 @@ I translate...
 
 ## 📊 Featured Projects
 
-### Voluntary Carbon Market Dashboard - work in progress
-[Explaining voluntary carbon market in 5 Minutes]
-
+### [Explaining-Voluntary-Carbon-Market-in-5-Minutes] Dashboard - work in progress
 During my thesis, I realized that although voluntary carbon market has been debated for years, it is surprisingly difficult to answer three simple questions: 
 
 Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issue these credits?
