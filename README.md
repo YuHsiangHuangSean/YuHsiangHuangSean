@@ -8,7 +8,6 @@ I translate...
 - complex information into something impactful (hopefully)
 
 ## 🛠 Skills
-
 - Python (Pandas, NumPy, Matplotlib, GeoPandas)
 - Power BI / Power Query / DAX
 - SQL
@@ -20,7 +19,20 @@ I translate...
 
 ## 📊 Featured Projects
 
-### Voluntary Carbon Market Dashboard
+### Voluntary Carbon Market Dashboard - work in progress
+[Explaining voluntary carbon market in 5 Minutes]
+
+During my thesis, I realized that although voluntary carbon market has been debated for years, it is surprisingly difficult to answer three simple questions: 
+
+Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issue these credits?
+
+This project aims to provide an overview dashboard for voluntary carbon market to answer these questions
+Preview:
+
+![Dashboard Preview_1](https://github.com/user-attachments/assets/f932686b-8044-44ab-92b9-65818ec24f6c)
+
+![Dashboard Preview_2](https://github.com/user-attachments/assets/0d929762-86f7-4e2c-a501-f1886a874193)
+[View Project →](https://github.com/YuHsiangHuangSean/Voluntary-Carbon-Market-Dashboard/tree/PowerBI)
 
 <!--
 **YuHsiangHuangSean/YuHsiangHuangSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
