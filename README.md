@@ -1,4 +1,26 @@
-## Hi there 👋
+## Sean Huang
+
+**Data Analyst / Carbon Markets / Agrifood Supply Chains / Business Intelligence**
+
+I translate...
+- data into insights
+- technical and regulatory terms into clear, everyday language
+- complex information into something impactful (hopefully)
+
+## 🛠 Skills
+
+- Python (Pandas, NumPy, Matplotlib, GeoPandas)
+- Power BI / Power Query / DAX
+- SQL
+- Excel
+- ArcGIS / QGIS
+- R package
+- Remote sensing
+- Git / GitHub
+
+## 📊 Featured Projects
+
+### Voluntary Carbon Market Dashboard
 
 <!--
 **YuHsiangHuangSean/YuHsiangHuangSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
