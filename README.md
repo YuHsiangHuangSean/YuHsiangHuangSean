@@ -31,7 +31,7 @@ Preview:
 
 ![Dashboard Preview_1](https://github.com/user-attachments/assets/f932686b-8044-44ab-92b9-65818ec24f6c)
 
-![Dashboard Preview_2](https://github.com/user-attachments/assets/0d929762-86f7-4e2c-a501-f1886a874193)
+![Dashboard Preview_2](https://github.com/user-attachments/assets/c87cbc50-3bd7-4554-838e-5db12b7f37cf)
 [View Project →](https://github.com/YuHsiangHuangSean/Voluntary-Carbon-Market-Dashboard/tree/PowerBI)
 
 <!--
