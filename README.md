@@ -23,15 +23,15 @@ I translate...
 
 During my thesis, I realized that although voluntary carbon market has been debated for years, it is surprisingly difficult to answer three simple questions: 
 
-Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issue these credits?
+Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issues these credits?
 
 This project aims to provide an overview dashboard for voluntary carbon market to answer these questions
 
 Preview:
 
-![Dashboard Preview_1](https://github.com/user-attachments/assets/f932686b-8044-44ab-92b9-65818ec24f6c)
+![Dashboard Preview_1](https://github.com/user-attachments/assets/05085765-7052-4587-bf4f-f2de283ff37d)
 
-![Dashboard Preview_2](https://github.com/user-attachments/assets/c87cbc50-3bd7-4554-838e-5db12b7f37cf)
+![Dashboard Preview_2](https://github.com/user-attachments/assets/42c26c11-4286-4acc-b4b7-de2a0ac199c0)
 [View Project →](https://github.com/YuHsiangHuangSean/Voluntary-Carbon-Market-Dashboard/tree/PowerBI)
 
 <!--
