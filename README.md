@@ -9,29 +9,31 @@ I translate...
 
 ## 🛠 Skills
 - Data ETL and analysis
-  -  Python (Pandas, NumPy), Power Query, SQL, Excel, R package
+  -  Python (Pandas, NumPy, SciPy), Power Query, SQL, Excel, R package
 - Data visualization
   - Python (Matplotlib, Seaborn), Power BI & DAX, Excel
 - Spatial analysis
-  - ArcGIS, QGIS, Python (GeoPandas)
-- Python (Pandas, NumPy, Matplotlib, GeoPandas), remote sensing
+  - ArcGIS, QGIS, Python (GeoPandas), remote sensing
 
 ## 📊 Featured Projects
 
 ### “Explain Voluntary Carbon Market in 5 Minutes“ Dashboard - work in progress
 #Data cleaning #ETL #Data visualization #Python #Power BI
 
-During my thesis, I realized that although voluntary carbon market has been debated for years, it is surprisingly difficult to answer three simple questions: 
+During my thesis research, I realized that although the voluntary carbon market has been debated for years, it is surprisingly difficult to answer some simple questions: 
 
-Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issues these credits?
+Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issues these credits? How do stakeholders ensure credit quality?
 
-This project aims to provide an overview dashboard for voluntary carbon market to answer these questions
+This project aims to provide an overview dashboard for the voluntary carbon market to answer these questions
 
 Preview:
 
-![Dashboard Preview_1](https://github.com/user-attachments/assets/05085765-7052-4587-bf4f-f2de283ff37d)
+<img width="600" height="334" alt="image" src="https://github.com/user-attachments/assets/b59ac88d-5b06-47de-bf5d-d7430fd9b608" />
 
-![Dashboard Preview_2](https://github.com/user-attachments/assets/42c26c11-4286-4acc-b4b7-de2a0ac199c0)
+<img width="600" height="337" alt="image" src="https://github.com/user-attachments/assets/51336aa2-6d83-4afb-bc8c-4abad25bc146" />
+
+<img width="600" height="336" alt="image" src="https://github.com/user-attachments/assets/4c65cace-ac23-4745-93f2-64aa43af1118" />
+
 [View Project →](https://github.com/YuHsiangHuangSean/Voluntary-Carbon-Market-Dashboard/tree/PowerBI)
 
 <!--
