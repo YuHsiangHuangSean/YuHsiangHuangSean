@@ -17,24 +17,46 @@ I translate...
 
 ## 📊 Featured Projects
 
-### “Explain Voluntary Carbon Market in 5 Minutes“ Dashboard - work in progress
-#Data cleaning #ETL #Data visualization #Python #Power BI
+### “Explain Voluntary Carbon Market in 10 Minutes“ Dashboard
+#Voluntary carbon market #Data cleaning #ETL #Data visualization #Python #Power BI
 
-During my thesis research, I realized that although the voluntary carbon market has been debated for years, it is surprisingly difficult to answer some simple questions: 
+Purpose:
 
-Over the last 10 years, where are carbon projects taking place? How are carbon credits generated? Who issues these credits? How do stakeholders ensure credit quality?
+Explain the voluntary carbon market and identify its challenge, trend, and future developments.
 
-This project aims to provide an overview dashboard for the voluntary carbon market to answer these questions
+Method:
+
+1. 21 expert interviews and policy research from [my thesis research](https://studenttheses.uu.nl/handle/20.500.12932/52522)
+
+2. Cleaned, transformed, and analyzed data on 11,000 carbon projects to visualize market trends and insights using Python and Power BI
 
 Preview:
 
-<img width="600" height="334" alt="image" src="https://github.com/user-attachments/assets/b59ac88d-5b06-47de-bf5d-d7430fd9b608" />
+How are carbon credits generated:
 
-<img width="600" height="337" alt="image" src="https://github.com/user-attachments/assets/51336aa2-6d83-4afb-bc8c-4abad25bc146" />
+<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/113dd452-57f8-4e9e-9217-96582fe684e3" />
 
-<img width="600" height="336" alt="image" src="https://github.com/user-attachments/assets/4c65cace-ac23-4745-93f2-64aa43af1118" />
+Who issues carbon credits:
 
-[View Project →](https://github.com/YuHsiangHuangSean/Voluntary-Carbon-Market-Dashboard/tree/PowerBI)
+<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/b73e333f-b56d-4332-9a1d-bed5966962db" />
+
+What are the future developments:
+
+<img width="600" height="339" alt="image" src="https://github.com/user-attachments/assets/7e89a88a-e1ab-4b15-bf73-de5a95b6df75" />
+
+Key insights:
+
+1. Forestry projects, including REDD+, in Latin America have lost momentum. Once a major source of credits, the segment has declined noticeably since 2023.
+
+2. Cookstove projects in Sub-Saharan Africa stand out as a potential growth segment. Gold Standard has established an early lead over other major standards in this area
+
+3. The project quality controversies have driven a transition from quantity to quality. 
+
+4. Additional certification labels are supporting this transition. ICVCM-CCP-approved, Article-6-authorized, and CORSIA-eligible labels still represent a relatively small share of the market (particularly Article 6), but their presence is steadily growing.
+
+5. The transition from quantity to quality also coincides with a shift from voluntary to compliance-driven demand. While some major voluntary buyers are slowing their purchases, CORSIA is expected to bring more international airlines into the market as its coverage expands.
+
+[View Project →](https://github.com/YuHsiangHuangSean/Voluntary-Carbon-Market-Dashboard.git)
 
 <!--
 **YuHsiangHuangSean/YuHsiangHuangSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
