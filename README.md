@@ -1,6 +1,6 @@
 ## Sean Huang
 
-**Data Analyst / Carbon Markets / Agrifood Supply Chains / Business Intelligence**
+**Data Analyst / End-to-End Business Intelligence / Carbon Markets / Agrifood Supply Chains**
 
 I translate...
 - data into insights
@@ -8,16 +8,16 @@ I translate...
 - complex information into something impactful (hopefully)
 
 ## 🛠 Skills
-- Data ETL and analysis
-  -  Python (Pandas, NumPy, SciPy), Power Query, SQL, Excel, R package
+- Data ETL/ELT and analysis
+  -  Python (Pandas, NumPy, SciPy), Power Query, SQL, Google BigQuery, dbt, Excel, R package
 - Data visualization
-  - Python (Matplotlib, Seaborn), Power BI & DAX, Excel
+  - Python (Matplotlib, Seaborn), Power BI & DAX, Tableau
 - Spatial analysis
   - ArcGIS, QGIS, Python (GeoPandas), remote sensing
 
 ## 📊 Featured Projects
 
-### “Explain Voluntary Carbon Market in 10 Minutes“ Dashboard
+### Carbon Market Dashboard - Explain Voluntary Carbon Market in 10 Minutes
 #Voluntary carbon market #Data cleaning #ETL #Data visualization #Python #Power BI
 
 Purpose:
@@ -26,9 +26,9 @@ Explain the voluntary carbon market and identify its challenge, trend, and futur
 
 Method:
 
-1. 21 expert interviews and policy research from [my thesis research](https://studenttheses.uu.nl/handle/20.500.12932/52522)
+1. 21 expert interviews and policy research from [my thesis research](https://studenttheses.uu.nl/handle/20.500.12932/52522).
 
-2. Cleaned, transformed, and analyzed data on 11,000 carbon projects to visualize market trends and insights using Python and Power BI
+2. Clean, transform, and analyze data on 11,000 carbon projects to visualize market trends and insights using Python and Power BI.
 
 Preview:
 
@@ -57,6 +57,20 @@ Key insights:
 5. The transition from quantity to quality also coincides with a shift from voluntary to compliance-driven demand. While some major voluntary buyers are slowing their purchases, CORSIA is expected to bring more international airlines into the market as its coverage expands.
 
 [View Project →](https://github.com/YuHsiangHuangSean/Voluntary-Carbon-Market-Dashboard.git)
+
+### Food Retail Dashboard - What is Really Happening in Supermarkets (WIP)
+OpenFoodFacts #DataAnalytics #ELTPipeline #DataVisualization #FoodPrices #FoodSustainability #OpenData #BigQuery #dbt
+
+Purpose:
+
+Through consumers’ eyes, explore trends in food prices, the availability and affordability of healthier and more environmentally friendly products, and how rising living costs have influenced these dimensions over time.
+
+Method:
+Build a ELT pipeline to transform open datasets from Open Food Facts, with Over 340K price data and over 4.8M product data into accessible, interactive dashboards using BigQuery and dbt.
+Using BigQuery and .
+
+[View Project →](https://github.com/YuHsiangHuangSean/Food-Retail-Dashboard-1.git)
+
 
 <!--
 **YuHsiangHuangSean/YuHsiangHuangSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
