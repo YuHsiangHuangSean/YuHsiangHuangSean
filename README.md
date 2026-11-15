@@ -66,8 +66,11 @@ Purpose:
 Through consumers’ eyes, explore trends in food prices, the availability and affordability of healthier and more environmentally friendly products, and how rising living costs have influenced these dimensions over time.
 
 Method:
-Build a ELT pipeline to transform open datasets from Open Food Facts, with Over 340K price data and over 4.8M product data into accessible, interactive dashboards using BigQuery and dbt.
-Using BigQuery and .
+Build a ELT pipeline to transform open datasets from Open Food Facts, with Over 340K price data into accessible, interactive dashboards using BigQuery and dbt.
+
+Preview:
+
+<img width="600" height="364" alt="image" src="https://github.com/user-attachments/assets/5f9a5b0c-647e-4d44-83a7-0041e53140a4" />
 
 [View Project →](https://github.com/YuHsiangHuangSean/Food-Retail-Dashboard-1.git)
 
