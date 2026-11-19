@@ -9,7 +9,7 @@ I translate...
 
 ## 🛠 Skills
 - Data ETL/ELT and analysis
-  -  Python (Pandas, NumPy, SciPy), Power Query, SQL, Google BigQuery, dbt, Excel, R package
+  -  Python (Pandas, NumPy, SciPy), Power Query, SQL, Google BigQuery, dbt, Excel, R
 - Data visualization
   - Python (Matplotlib, Seaborn), Power BI & DAX, Tableau
 - Spatial analysis
