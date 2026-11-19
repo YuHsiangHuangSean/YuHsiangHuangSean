@@ -70,7 +70,9 @@ Build a ELT pipeline to transform open datasets from Open Food Facts, with Over 
 
 Preview:
 
-<img width="600" height="364" alt="image" src="https://github.com/user-attachments/assets/5f9a5b0c-647e-4d44-83a7-0041e53140a4" />
+<img width="600" height="385" alt="image" src="https://github.com/user-attachments/assets/f4d9bbdd-7b8a-4fce-b961-af3bf9aa5c33" />
+
+<img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/12b4ee16-060c-47ae-94ff-ed9d278481e0" />
 
 [View Project →](https://github.com/YuHsiangHuangSean/Food-Retail-Dashboard-1.git)
 
